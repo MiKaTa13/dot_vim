@@ -7,3 +7,6 @@
 [submodule "colors/start/oceanic-material"]
 	path = colors/start/oceanic-material
 	url = https://github.com/nvimdev/oceanic-material.git
+[submodule "plugins/start/vim-commentary"]
+	path = plugins/start/vim-commentary
+	url = https://github.com/tpope/vim-commentary.git
