@@ -22,3 +22,6 @@
 [submodule "colors/start/vim-colors-solarized"]
 	path = colors/start/vim-colors-solarized
 	url = https://github.com/altercation/vim-colors-solarized.git
+[submodule "plugins/start/vim-fugitive"]
+	path = plugins/start/vim-fugitive
+	url = https://github.com/tpope/vim-fugitive.git
