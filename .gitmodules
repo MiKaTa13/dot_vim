@@ -28,3 +28,6 @@
 [submodule "plugins/start/vim-repeat"]
 	path = plugins/start/vim-repeat
 	url = https://github.com/tpope/vim-repeat.git
+[submodule "syntax/start/chezmoi.vim"]
+	path = syntax/start/chezmoi.vim
+	url = https://github.com/alker0/chezmoi.vim.git
