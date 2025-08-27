@@ -34,3 +34,6 @@
 [submodule "plugins/opt/chezmoi.vim"]
 	path = plugins/opt/chezmoi.vim
 	url = https://github.com/alker0/chezmoi.vim.git
+[submodule "plugins/start/chezmoi.vim"]
+	path = plugins/start/chezmoi.vim
+	url = https://github.com/alker0/chezmoi.vim.git
