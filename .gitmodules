@@ -31,3 +31,6 @@
 [submodule "syntax/start/chezmoi.vim"]
 	path = syntax/start/chezmoi.vim
 	url = https://github.com/alker0/chezmoi.vim.git
+[submodule "plugins/opt/chezmoi.vim"]
+	path = plugins/opt/chezmoi.vim
+	url = https://github.com/alker0/chezmoi.vim.git
