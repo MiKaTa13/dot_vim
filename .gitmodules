@@ -40,3 +40,6 @@
 [submodule "plugins/start/vim-chezmoi"]
 	path = plugins/start/vim-chezmoi
 	url = https://github.com/alker0/chezmoi.vim.git
+[submodule "plugins/start/vim-sleuth"]
+	path = plugins/start/vim-sleuth
+	url = https://github.com/tpope/vim-sleuth.git
